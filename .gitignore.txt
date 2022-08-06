@@ -28,6 +28,8 @@ share/python-wheels/
 *.egg
 *.suo
 PythonApplication1/.vs/PythonApplication1/v17/.suo
+PythonApplication2/.vs/PythonApplication2/v17/.suo
+#PythonApplication2/.vs/PythonApplication2/FileContentIndex/
 MANIFEST
 
 # PyInstaller
