@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+PythonApplication1/.vs/PythonApplication1/v17/.suo
+
 
 # Distribution / packaging
 .Python
@@ -25,6 +27,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 *.suo
+PythonApplication1/.vs/PythonApplication1/v17/.suo
 MANIFEST
 
 # PyInstaller
